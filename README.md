@@ -7,6 +7,8 @@
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/mina_shafik)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=MenaShafik&color=blue&style=flat)
+
 </div>
 
 ---
@@ -44,13 +46,12 @@ Currently sharpening Microsoft Fabric and Azure data platform skills, and solvin
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏗️ [**End-to-End-Dwh-Project**](https://github.com/MenaShafik/End-to-End-Dwh-Project) | Full data warehouse build for a bookstore — source ingestion, staging, dimensional model, and reporting layer | T-SQL |
+| ☁️ [**DP-700**](https://github.com/MenaShafik/DP-700) | Study notes and hands-on prep for the Microsoft Fabric Data Engineer Associate exam | Fabric |
 | 🧩 [**LeetCode**](https://github.com/MenaShafik/LeetCode) | Solved problems in SQL, Python, and shell — consistent algorithm and query practice | SQL / Python |
+| 🏗️ [**End-to-End-Dwh-Project**](https://github.com/MenaShafik/End-to-End-Dwh-Project) | Full data warehouse build for a bookstore — source ingestion, staging, dimensional model, and reporting layer | T-SQL |
 | 🏗️ [**DataWareHouse-and-Data-Lakes**](https://github.com/MenaShafik/DataWareHouse-and-Data-Lakes) | Coursework and implementations from ITI's Data Engineering track covering DWH and Data Lake architecture | SQL |
 | 📊 [**EDA_project**](https://github.com/MenaShafik/EDA_project) | Clean, professional exploratory data analysis case study turning raw data into business insights | Python |
 | 🧱 [**DWH-mini_project**](https://github.com/MenaShafik/DWH-mini_project) | Compact data warehouse design exercise — schema modeling and SQL transformations | T-SQL |
-| ☁️ [**DP-700**](https://github.com/MenaShafik/DP-700) | Study notes and hands-on prep for the Microsoft Fabric Data Engineer Associate exam | Fabric |
-
 
 
 ---
