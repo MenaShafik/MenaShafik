@@ -74,13 +74,14 @@ Currently sharpening Microsoft Fabric and Azure data platform skills, and solvin
 | Certificate | Issuer |
 |---|---|
 | [Microsoft Certified: Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/menashafik-7123/F7CD49AFA2127449?sharingId=95F6F56FDC510E2A) | Microsoft |
-| [AWS Academy Graduate – Data Engineering](https://www.credly.com/badges/a5796c1a-c900-4493-b666-81d795e1e98d) | AWS Training & Certification |
-| [AWS Certified Cloud Practitioner](https://www.credly.com/badges/29087a34-285f-44a0-9b22-c60d99bebad9) | AWS Training & Certification |
-| [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/badges/c7610c26-6384-45d9-b6a9-c1b9621088d4) | AWS Training & Certification |
-| [Astronomer Certification: Apache Airflow 3 Fundamentals](https://www.credly.com/badges/b83b3b5a-46fd-463c-91f3-c0a5121c46f8) | Astronomer |
-| [Astronomer Certification: DAG Authoring for Apache Airflow 3](https://www.credly.com/badges/6f0f313b-db9b-4c45-a7ab-2fbf9aec4b6d) | Astronomer |
-| [MongoDB Indexing Design Fundamentals](https://www.credly.com/badges/138e46e0-f733-41fe-a005-eb14cd7da670) | MongoDB |
-| [AI Skills Fest 2026](https://www.credly.com/badges/feced5ed-874f-44e3-b9d2-9aee998fa906) | Microsoft |
+| [AWS Academy Graduate – Data Engineering](https://www.credly.com/badges/a5796c1a-c900-4493-b666-81d795e1e98d/public_url) | AWS Training & Certification |
+| [AWS Certified Cloud Practitioner](https://www.credly.com/badges/29087a34-285f-44a0-9b22-c60d99bebad9/public_url) | AWS Training & Certification |
+| [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/badges/c7610c26-6384-45d9-b6a9-c1b9621088d4/public_url) | AWS Training & Certification |
+| [AWS Academy Graduate – AI Foundations](https://www.credly.com/badges/7e76c35f-6fb4-46e7-85c2-19979df24326/public_url) | AWS Training & Certification |
+| [Astronomer Certification: Apache Airflow 3 Fundamentals](https://www.credly.com/badges/b83b3b5a-46fd-463c-91f3-c0a5121c46f8/public_url) | Astronomer |
+| [Astronomer Certification: DAG Authoring for Apache Airflow 3](https://www.credly.com/badges/6f0f313b-db9b-4c45-a7ab-2fbf9aec4b6d/public_url) | Astronomer |
+| [MongoDB Indexing Design Fundamentals](https://www.credly.com/badges/138e46e0-f733-41fe-a005-eb14cd7da670/public_url) | MongoDB |
+| [AI Skills Fest 2026](https://www.credly.com/badges/feced5ed-874f-44e3-b9d2-9aee998fa906/public_url) | Microsoft |
 
 🎓 Full badge collection on [Credly](https://www.credly.com/users/mina_shafik)
 
