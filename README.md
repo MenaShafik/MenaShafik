@@ -27,31 +27,34 @@ I hold the **Google Cloud Professional Data Engineer** certification, along with
 
 ## Certifications
 
+<!--
+  HOW TO ADD A NEW BADGE
+  Copy one <td> block and replace:
+    1) the href       -> the Credly public badge URL (or the issuer's share link)
+    2) the img src    -> the badge image URL (on the Credly badge page: right-click the badge > copy image address)
+    3) the alt text, the title and the issuer line
+  Sizes: featured badges use width="140", grouped badges use width="90".
+  Keep each group to a maximum of 4 cells per row so it stays readable on mobile.
+-->
+
 ### Featured
 
 <div align="center">
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <!--
-        TODO: Google Cloud Professional Data Engineer
-        1) Replace the href below with your Credly public badge URL.
-        2) Add the badge image by replacing the placeholder text with:
-           <img src="YOUR_BADGE_IMAGE_URL" width="140" alt="Google Cloud Certified Professional Data Engineer"/>
-      -->
       <a href="https://www.credly.com/badges/2af83133-73c7-416e-be21-36a7f8f0458d/public_url">
-        <img src="https://images.credly.com/size/680x680/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png" width="140" alt="Professional Data Engineer"/>
+        <img src="https://images.credly.com/size/680x680/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png" width="140" alt="Google Cloud Professional Data Engineer"/>
       </a>
       <br/><br/>
       <b>Professional Data Engineer</b><br/>
       <sub>Google Cloud</sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <!-- TODO (optional): add a badge image for this certification, e.g. <img src="YOUR_IMAGE_URL" width="140" alt="..."/> -->
       <a href="https://learn.microsoft.com/api/credentials/share/en-us/menashafik-7123/F7CD49AFA2127449?sharingId=95F6F56FDC510E2A">
-        <b>Microsoft Fabric</b>
+        <img src="https://learn.microsoft.com/ar-sa/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="140" alt="Microsoft Certified: Fabric Data Engineer Associate"/>
       </a>
-        <img src="https://learn.microsoft.com/ar-sa/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="140" alt="Fabric Data Engineer Associate"/>
+      <br/><br/>
       <b>Fabric Data Engineer Associate</b><br/>
       <sub>Microsoft</sub>
     </td>
@@ -59,7 +62,7 @@ I hold the **Google Cloud Professional Data Engineer** certification, along with
       <a href="https://www.credly.com/badges/29087a34-285f-44a0-9b22-c60d99bebad9/public_url">
         <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" width="140" alt="AWS Certified Cloud Practitioner"/>
       </a>
-      <br/>
+      <br/><br/>
       <b>Certified Cloud Practitioner</b><br/>
       <sub>Amazon Web Services</sub>
     </td>
@@ -67,49 +70,68 @@ I hold the **Google Cloud Professional Data Engineer** certification, along with
 </table>
 </div>
 
-### More credentials
+### All credentials by provider
 
 <div align="center">
 <table>
+
+  <!-- AWS: all AWS credentials together (Cloud Practitioner also appears in Featured; remove it here if you prefer no repeat) -->
+  <tr><th colspan="4" align="left">&nbsp;Amazon Web Services</th></tr>
   <tr>
     <td align="center" width="25%" valign="top">
-      <a href="https://www.credly.com/badges/b83b3b5a-46fd-463c-91f3-c0a5121c46f8/public_url">
-        <img src="https://images.credly.com/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/linkedin_thumb_blob" width="90" alt="Astronomer Certification: Apache Airflow 3 Fundamentals"/>
+      <a href="https://www.credly.com/badges/29087a34-285f-44a0-9b22-c60d99bebad9/public_url">
+        <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/linkedin_thumb_image.png" width="90" alt="AWS Certified Cloud Practitioner"/>
       </a>
-      <br/><sub><b>Apache Airflow 3 Fundamentals</b><br/>Astronomer</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://www.credly.com/badges/6f0f313b-db9b-4c45-a7ab-2fbf9aec4b6d/public_url">
-        <img src="https://images.credly.com/images/6e9570ae-239f-47b9-85ff-0946c3844088/linkedin_thumb_blob" width="90" alt="Astronomer Certification: DAG Authoring for Apache Airflow 3"/>
-      </a>
-      <br/><sub><b>DAG Authoring for Apache Airflow 3</b><br/>Astronomer</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://www.credly.com/badges/a5796c1a-c900-4493-b666-81d795e1e98d/public_url">
-        <img src="https://images.credly.com/images/8a28a66c-151d-4f2d-b021-ca7d3e146437/blob" width="90" alt="Graduate: Data Engineering"/>
-      </a>
-      <br/><sub><b>Graduate: Data Engineering</b><br/>Amazon Web Services</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <a href="https://www.credly.com/badges/138e46e0-f733-41fe-a005-eb14cd7da670/public_url">
-        <img src="https://images.credly.com/images/27213be6-415d-411f-a69a-0171ca2c89f5/linkedin_thumb_blob" width="90" alt="MongoDB Indexing Design Fundamentals"/>
-      </a>
-      <br/><sub><b>Indexing Design Fundamentals</b><br/>MongoDB</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%" valign="top">
-      <a href="https://www.credly.com/badges/c7610c26-6384-45d9-b6a9-c1b9621088d4/public_url">
-        <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" width="90" alt="AWS Academy Graduate: Cloud Foundations"/>
-      </a>
-      <br/><sub><b>AWS Academy Graduate: Cloud Foundations</b><br/>Amazon Web Services</sub>
+      <br/><sub><b>Certified Cloud Practitioner</b></sub>
     </td>
     <td align="center" width="25%" valign="top">
       <!-- NOTE: the Credly page for this badge is titled "AWS Certified AI Practitioner". Rename here if that is not what you intend to show. -->
       <a href="https://www.credly.com/badges/7e76c35f-6fb4-46e7-85c2-19979df24326/public_url">
         <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/linkedin_thumb_image.png" width="90" alt="AWS Certified AI Practitioner"/>
       </a>
-      <br/><sub><b>Certified AI Practitioner</b><br/>Amazon Web Services</sub>
+      <br/><sub><b>Certified AI Practitioner</b></sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://www.credly.com/badges/c7610c26-6384-45d9-b6a9-c1b9621088d4/public_url">
+        <img src="https://images.credly.com/images/e3541a0c-dd4a-4820-8052-5001006efc85/linkedin_thumb_blob" width="90" alt="AWS Academy Graduate: Cloud Foundations"/>
+      </a>
+      <br/><sub><b>Academy Graduate:<br/>Cloud Foundations</b></sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://www.credly.com/badges/a5796c1a-c900-4493-b666-81d795e1e98d/public_url">
+        <img src="https://images.credly.com/images/8a28a66c-151d-4f2d-b021-ca7d3e146437/linkedin_thumb_blob" width="90" alt="AWS Academy Graduate: Data Engineering"/>
+      </a>
+      <br/><sub><b>Academy Graduate:<br/>Data Engineering</b></sub>
+    </td>
+  </tr>
+
+  <!-- Apache Airflow (Astronomer) -->
+  <tr><th colspan="4" align="left">&nbsp;Apache Airflow &nbsp;·&nbsp; Astronomer</th></tr>
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <a href="https://www.credly.com/badges/b83b3b5a-46fd-463c-91f3-c0a5121c46f8/public_url">
+        <img src="https://images.credly.com/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/linkedin_thumb_blob" width="90" alt="Astronomer Certification: Apache Airflow 3 Fundamentals"/>
+      </a>
+      <br/><sub><b>Airflow 3<br/>Fundamentals</b></sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <a href="https://www.credly.com/badges/6f0f313b-db9b-4c45-a7ab-2fbf9aec4b6d/public_url">
+        <img src="https://images.credly.com/images/6e9570ae-239f-47b9-85ff-0946c3844088/linkedin_thumb_blob" width="90" alt="Astronomer Certification: DAG Authoring for Apache Airflow 3"/>
+      </a>
+      <br/><sub><b>DAG Authoring<br/>for Airflow 3</b></sub>
+    </td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+  </tr>
+
+  <!-- Databases and AI -->
+  <tr><th colspan="4" align="left">&nbsp;Databases &amp; AI</th></tr>
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <a href="https://www.credly.com/badges/138e46e0-f733-41fe-a005-eb14cd7da670/public_url">
+        <img src="https://images.credly.com/images/27213be6-415d-411f-a69a-0171ca2c89f5/linkedin_thumb_blob" width="90" alt="MongoDB Indexing Design Fundamentals"/>
+      </a>
+      <br/><sub><b>Indexing Design<br/>Fundamentals</b><br/>MongoDB</sub>
     </td>
     <td align="center" width="25%" valign="top">
       <a href="https://www.credly.com/badges/feced5ed-874f-44e3-b9d2-9aee998fa906/public_url">
@@ -117,8 +139,10 @@ I hold the **Google Cloud Professional Data Engineer** certification, along with
       </a>
       <br/><sub><b>AI Skills Fest 2026</b><br/>Microsoft</sub>
     </td>
-    <td></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
   </tr>
+
 </table>
 
 <sub>All credentials are verifiable on my <a href="https://www.credly.com/users/mina_shafik">Credly profile</a>.</sub>
