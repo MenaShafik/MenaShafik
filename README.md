@@ -51,7 +51,7 @@ I hold the **Google Cloud Professional Data Engineer** certification, along with
       <a href="https://learn.microsoft.com/api/credentials/share/en-us/menashafik-7123/F7CD49AFA2127449?sharingId=95F6F56FDC510E2A">
         <b>Microsoft Fabric</b>
       </a>
-      <br/><br/>
+        <img src="https://learn.microsoft.com/ar-sa/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="140" alt="Fabric Data Engineer Associate"/>
       <b>Fabric Data Engineer Associate</b><br/>
       <sub>Microsoft</sub>
     </td>
@@ -85,8 +85,8 @@ I hold the **Google Cloud Professional Data Engineer** certification, along with
       <br/><sub><b>DAG Authoring for Apache Airflow 3</b><br/>Astronomer</sub>
     </td>
     <td align="center" width="25%" valign="top">
-      <a href="https://www.credly.com/badges/a5796c1a-c900-4493-b666-81d7951e98d4/public_url">
-        <b>AWS Academy</b>
+      <a href="https://www.credly.com/badges/a5796c1a-c900-4493-b666-81d795e1e98d/public_url">
+        <img src="https://images.credly.com/images/8a28a66c-151d-4f2d-b021-ca7d3e146437/blob" width="90" alt="Graduate: Data Engineering"/>
       </a>
       <br/><sub><b>Graduate: Data Engineering</b><br/>Amazon Web Services</sub>
     </td>
